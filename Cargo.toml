@@ -1,6 +1,6 @@
 [package]
 name = "orbita"
-version = "0.1.0"
+version = "1.0.0"
 edition = "2024"
 description = "🪐 The easiest way to rename extensions massive amounts of files"
 categories = ["development-tools", "command-line-utilities", "filesystem"]
